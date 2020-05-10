@@ -34,5 +34,4 @@ public class Position {
 		sb.append(column);
 		return sb.toString();
 	}
-	
 }
